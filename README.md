@@ -4,6 +4,7 @@ visualizer ./startSimViewer.
 
 
 To run ROS nodes
+
 ros2 run my_py_pkg control_node
 
 ros2 run my_py_pkg robot_node

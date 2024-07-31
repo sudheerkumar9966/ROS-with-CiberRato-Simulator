@@ -1,0 +1,4 @@
+[console_scripts]
+control_node = my_py_pkg.control_node:main
+robot_node = my_py_pkg.robot_node:main
+

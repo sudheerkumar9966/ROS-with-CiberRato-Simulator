@@ -1,0 +1,47 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from my_robot_interfaces/srv/CiberRatoServer.srv
+// generated code does not contain a copyright notice
+
+
+module my_robot_interfaces {
+  module srv {
+    struct CiberRatoServer_Request {
+      string set_visiting_led;
+
+      string set_returning_led;
+
+      string state;
+
+      string stopped_state;
+
+      double lpow;
+
+      double rpow;
+
+      boolean initial_state;
+    };
+    struct CiberRatoServer_Response {
+      boolean start_rob;
+
+      boolean stop_rob;
+
+      boolean visiting_led;
+
+      boolean returning_led;
+
+      int64 ground;
+
+      double center_id;
+
+      double left_id;
+
+      double right_id;
+
+      double back_id;
+
+      string state;
+
+      string stopped_state;
+    };
+  };
+};

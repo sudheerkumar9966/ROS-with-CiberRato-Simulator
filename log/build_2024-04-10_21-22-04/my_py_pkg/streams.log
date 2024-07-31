@@ -1,0 +1,26 @@
+[0.932s] Invoking command in '/home/sudheer/ros2_ws/src/my_py_pkg': PYTHONPATH=/home/sudheer/ros2_ws/build/my_py_pkg/prefix_override:/home/sudheer/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/sudheer/ros2_ws/build/my_py_pkg/build install --record /home/sudheer/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed install_data
+[1.269s] running egg_info
+[1.271s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[1.271s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[1.272s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[1.272s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[1.272s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[1.275s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.276s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.276s] running build
+[1.277s] running build_py
+[1.277s] copying my_py_pkg/control_node.py -> /home/sudheer/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.277s] running install
+[1.278s] running install_lib
+[1.279s] copying /home/sudheer/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/control_node.py -> /home/sudheer/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.280s] byte-compiling /home/sudheer/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/control_node.py to control_node.cpython-310.pyc
+[1.289s] running install_data
+[1.289s] running install_egg_info
+[1.290s] removing '/home/sudheer/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.290s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/sudheer/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info
+[1.290s] running install_scripts
+[1.318s] Installing control_node script to /home/sudheer/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.319s] Installing robot1_node script to /home/sudheer/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.319s] Installing robot_node script to /home/sudheer/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.320s] writing list of installed files to '/home/sudheer/ros2_ws/build/my_py_pkg/install.log'
+[1.366s] Invoked command in '/home/sudheer/ros2_ws/src/my_py_pkg' returned '0': PYTHONPATH=/home/sudheer/ros2_ws/build/my_py_pkg/prefix_override:/home/sudheer/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/sudheer/ros2_ws/build/my_py_pkg/build install --record /home/sudheer/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed install_data

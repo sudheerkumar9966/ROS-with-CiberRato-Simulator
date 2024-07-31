@@ -1,0 +1,20 @@
+[0.910s] Invoking command in '/home/sudheer/ros2_ws/build/my_py_pkg': PYTHONPATH=/home/sudheer/ros2_ws/build/my_py_pkg/prefix_override:/home/sudheer/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/sudheer/ros2_ws/build/my_py_pkg/build --no-deps symlink_data --force
+[1.272s] running develop
+[1.497s] running egg_info
+[1.497s] writing my_py_pkg.egg-info/PKG-INFO
+[1.499s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[1.500s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[1.500s] writing requirements to my_py_pkg.egg-info/requires.txt
+[1.500s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[1.503s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.504s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.506s] running build_ext
+[1.507s] Creating /home/sudheer/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[1.508s] Installing control_node script to /home/sudheer/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.509s] Installing robot_node script to /home/sudheer/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.509s] 
+[1.509s] Installed /home/sudheer/ros2_ws/build/my_py_pkg
+[1.509s] running symlink_data
+[1.510s] symbolically linking /home/sudheer/ros2_ws/build/my_py_pkg/resource/my_py_pkg -> /home/sudheer/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages
+[1.510s] symbolically linking /home/sudheer/ros2_ws/build/my_py_pkg/package.xml -> /home/sudheer/ros2_ws/install/my_py_pkg/share/my_py_pkg
+[1.572s] Invoked command in '/home/sudheer/ros2_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/sudheer/ros2_ws/build/my_py_pkg/prefix_override:/home/sudheer/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/sudheer/ros2_ws/build/my_py_pkg/build --no-deps symlink_data --force

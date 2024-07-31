@@ -1,0 +1,6 @@
+msg/RobotStatus.idl
+msg/RobotStatus.msg
+srv/CiberRatoServer.idl
+srv/CiberRatoServer.srv
+srv/CiberRatoServer_Request.msg
+srv/CiberRatoServer_Response.msg
